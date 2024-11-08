@@ -1,0 +1,32 @@
+{
+	"name": "food_plaza",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html",
+		"test": "jest"
+	},
+	"author": "ADITYA GUPTA",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.23.9",
+		"parcel": "^2.11.0",
+		"process": "^0.11.10"
+	},
+	"dependencies": {
+		"@reduxjs/toolkit": "^2.2.3",
+		"@types/react": "^18.2.79",
+		"formik": "^2.4.5",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-hot-toast": "^2.4.1",
+		"react-native": "^0.73.7",
+		"react-redux": "^9.1.1",
+		"react-router-dom": "^6.22.3",
+		"redux": "^5.0.1"
+	},
+	"browserslist": [
+		"last 10 Chrome versions"
+	]
+}
