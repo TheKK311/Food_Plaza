@@ -84,9 +84,9 @@ A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspirat
 
 ## Author
 
-ADITYA GUPTA \
-Email: adityaastic@gmail.com\
-LinkedIn : https://www.linkedin.com/in/aditya-gupta-217505299/
+- Kundan Kumar
+- meetkkc7@gmail.com
+- [Linkedin](https://www.linkedin.com/in/thekundankumarji)
 
 ## Project Link
 
